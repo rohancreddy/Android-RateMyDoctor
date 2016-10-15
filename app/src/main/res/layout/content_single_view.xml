@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/doctor_name"
+        android:ems="10"
+        android:id="@+id/doctor_name"
+        android:layout_marginTop="71dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/doctor_hospital" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPostalAddress"
+        android:ems="10"
+        android:id="@+id/doctor_hospital"
+        android:hint="@string/doctor_address"
+        android:layout_alignStart="@+id/doctor_number"
+        android:layout_below="@+id/doctor_speciality" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/doctor_number"
+        android:hint="@string/doctor_number"
+        android:layout_below="@+id/doctor_hospital"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"
+        android:id="@+id/submitbutton2"
+        android:layout_below="@+id/doctor_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="183dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/doctor_speciality"
+        android:layout_below="@+id/doctor_name"
+        android:hint="@string/doctor_speciality"
+        android:layout_alignStart="@+id/doctor_name"
+        android:layout_alignEnd="@+id/doctor_name" />
+
+
+</RelativeLayout>
