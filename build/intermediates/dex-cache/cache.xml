@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="471ce760dbf7b784fd74892b5113bca4e0d8def7">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-beta1_90821b82933f31d057911500cb73e8eecce197a2.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1_58859c18093f03cf2d865ea23f28618b17db3872.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-beta1_4d7c3d11c0e6c900f0977d9a1c161001396d033b.jar" />
+    </item>
+    <item
+        jar="C:\Users\rohan\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\library-1.0.19_df60ffa0062446679b82ac02d3cbd01eabbcf5c4.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-beta1_db871b20a4dd15b33cd0016af31488ebc09ee614.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-beta1_accd70e2447bb8ac7a9990cbbcc414e7066f3c48.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-beta1_f155edff8d8c9d6689c22c350a85657beeb1ecda.jar" />
+    </item>
+    <item
+        jar="C:\Users\rohan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="C:\AndroidProjects\RateMyDoctor\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1_8087fce3ffe7fc9a7c04bb5cd2d4cce1a35f8f53.jar" />
+    </item>
+
+</items>
